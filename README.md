@@ -1,6 +1,8 @@
 # Using Transfer Data to Predict English Premier League team strength
 Repository holding all work for Springboard Capstone 1: Impact of Transfers on English Football club strength
 
+### **UPDATE**: I revisited this project to develop a more complete project and improve the model. You can see the [repository here](https://github.com/tdraths/spi_transfers_global)
+
 [Medium Post](https://tdraths.medium.com/transfer-windows-predicting-english-premier-league-club-ratings-779b37008353)
 
 ![Cover](https://miro.medium.com/max/9650/0*wPuBg7ZwWs8Fpg4V)
@@ -91,6 +93,8 @@ As I’ve mentioned a couple of times, this was my first ‘data science’-rela
 
 And as my mentor said when we were discussing my confidence — “If think you don’t know enough, go learn some stuff!” Thanks, 
 Rafael Castillo Alcibar
+
+
 .
 
 
